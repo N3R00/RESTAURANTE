@@ -37,7 +37,7 @@
           <div class="card blue-grey darken-1">
             <form action="loga.php" method="post">
               <div class="card-content white-text">
-                <span class="card-title">FOOD</span>
+                <span class="card-title">SISTEMA PARA RESTAURANTE</span>
                 <p>Digite sua senha para continuar</p>
                 <input type="password" name="senha" placeholder="Digite sua senha...">
               </div>
